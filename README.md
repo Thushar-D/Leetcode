@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Thushar-D/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Thushar-D/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thushar-D/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Thushar-D/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Thushar-D/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Thushar-D/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Thushar-D/Leetcode/tree/master/0217-contains-duplicate) |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Thushar-D/Leetcode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Thushar-D/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Thushar-D/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Thushar-D/Leetcode/tree/master/0268-missing-number) |
 ## Binary Search
@@ -66,4 +68,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Thushar-D/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Thushar-D/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
