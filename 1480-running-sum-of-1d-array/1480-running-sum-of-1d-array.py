@@ -1,10 +1,6 @@
-class Solution(object):
+class Solution:
     def runningSum(self, nums):
-        total = 0
-        result = []
-
-        for num in nums:
-            total += num
-            result.append(total)
-
-        return result
+        for i in range(1, len(nums)):
+            nums[i] = nums[i] + nums[i - 1]
+        
+        return nums
