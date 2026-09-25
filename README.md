@@ -17,6 +17,7 @@
 | [0485-max-consecutive-ones](https://github.com/Thushar-D/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/Thushar-D/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Thushar-D/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Thushar-D/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Thushar-D/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Thushar-D/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -79,4 +80,8 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Thushar-D/Leetcode/tree/master/0344-reverse-string) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Thushar-D/Leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
