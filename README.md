@@ -19,6 +19,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Thushar-D/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Thushar-D/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Thushar-D/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Thushar-D/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Thushar-D/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -69,6 +70,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/Thushar-D/Leetcode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Thushar-D/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Thushar-D/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Thushar-D/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
@@ -84,6 +86,7 @@
 | [0344-reverse-string](https://github.com/Thushar-D/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Thushar-D/Leetcode/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/Thushar-D/Leetcode/tree/master/1108-defanging-an-ip-address) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Thushar-D/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Matrix
 |  |
 | ------- |
