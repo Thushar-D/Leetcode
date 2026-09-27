@@ -33,6 +33,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/Thushar-D/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Thushar-D/Leetcode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Thushar-D/Leetcode/tree/master/0412-fizz-buzz) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Thushar-D/Leetcode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Thushar-D/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Thushar-D/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Prefix Sum
@@ -80,6 +82,7 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Thushar-D/Leetcode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Thushar-D/Leetcode/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/Thushar-D/Leetcode/tree/master/1108-defanging-an-ip-address) |
 ## Matrix
 |  |
