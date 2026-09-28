@@ -42,6 +42,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Thushar-D/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Thushar-D/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Thushar-D/Leetcode/tree/master/0268-missing-number) |
+| [0771-jewels-and-stones](https://github.com/Thushar-D/Leetcode/tree/master/0771-jewels-and-stones) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | ------- |
 | [0344-reverse-string](https://github.com/Thushar-D/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Thushar-D/Leetcode/tree/master/0412-fizz-buzz) |
+| [0771-jewels-and-stones](https://github.com/Thushar-D/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Thushar-D/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Thushar-D/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Matrix
