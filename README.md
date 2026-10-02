@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Thushar-D/Leetcode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Thushar-D/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Thushar-D/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Thushar-D/Leetcode/tree/master/0412-fizz-buzz) |
 | [1486-xor-operation-in-an-array](https://github.com/Thushar-D/Leetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -75,6 +76,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Thushar-D/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Thushar-D/Leetcode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Thushar-D/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Thushar-D/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -104,4 +106,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Thushar-D/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Thushar-D/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
