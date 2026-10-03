@@ -37,6 +37,7 @@
 | [0258-add-digits](https://github.com/Thushar-D/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Thushar-D/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Thushar-D/Leetcode/tree/master/0412-fizz-buzz) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Thushar-D/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Thushar-D/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2235-add-two-integers](https://github.com/Thushar-D/Leetcode/tree/master/2235-add-two-integers) |
 ## Hash Table
@@ -57,6 +58,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Thushar-D/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Thushar-D/Leetcode/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Thushar-D/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Thushar-D/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Sorting
 |  |
