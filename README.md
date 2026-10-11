@@ -43,6 +43,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Thushar-D/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Thushar-D/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Thushar-D/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [2119-a-number-after-a-double-reversal](https://github.com/Thushar-D/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/Thushar-D/Leetcode/tree/master/2235-add-two-integers) |
 ## Hash Table
 |  |
