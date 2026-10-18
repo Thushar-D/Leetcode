@@ -1,15 +1,7 @@
 class Solution(object):
     def missingNumber(self, nums):
         n = len(nums)
+        expected_sum = n * (n + 1) // 2
+        actual_sum = sum(nums)
 
-        freq = {}
-
-        for i in range(n + 1):
-            freq[i] = 0
-
-        for num in nums:
-            freq[num] = 1
-
-        for key, value in freq.items():
-            if value == 0:
-                return key
+        return expected_sum - actual_sum
