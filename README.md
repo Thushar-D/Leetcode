@@ -54,6 +54,7 @@
 | [0001-two-sum](https://github.com/Thushar-D/Leetcode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Thushar-D/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Thushar-D/Leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Thushar-D/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Thushar-D/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Thushar-D/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Thushar-D/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -110,6 +111,7 @@
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Thushar-D/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Thushar-D/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Thushar-D/Leetcode/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/Thushar-D/Leetcode/tree/master/0771-jewels-and-stones) |
