@@ -17,6 +17,7 @@
 | [0283-move-zeroes](https://github.com/Thushar-D/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Thushar-D/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Thushar-D/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0804-unique-morse-code-words](https://github.com/Thushar-D/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Thushar-D/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Thushar-D/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Thushar-D/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -61,6 +62,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Thushar-D/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Thushar-D/Leetcode/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/Thushar-D/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/Thushar-D/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Thushar-D/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Thushar-D/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
@@ -120,6 +122,7 @@
 | [0383-ransom-note](https://github.com/Thushar-D/Leetcode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Thushar-D/Leetcode/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/Thushar-D/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/Thushar-D/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [1108-defanging-an-ip-address](https://github.com/Thushar-D/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/Thushar-D/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Thushar-D/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
