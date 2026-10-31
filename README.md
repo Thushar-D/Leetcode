@@ -37,6 +37,7 @@
 | [0283-move-zeroes](https://github.com/Thushar-D/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Thushar-D/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Thushar-D/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Thushar-D/Leetcode/tree/master/0392-is-subsequence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Thushar-D/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -97,6 +98,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Thushar-D/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thushar-D/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Thushar-D/Leetcode/tree/master/0392-is-subsequence) |
 ## Simulation
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 | [0242-valid-anagram](https://github.com/Thushar-D/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Thushar-D/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Thushar-D/Leetcode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/Thushar-D/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Thushar-D/Leetcode/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/Thushar-D/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Thushar-D/Leetcode/tree/master/0804-unique-morse-code-words) |
