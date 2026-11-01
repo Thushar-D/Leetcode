@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/Thushar-D/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Thushar-D/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Thushar-D/Leetcode/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/Thushar-D/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thushar-D/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Thushar-D/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Thushar-D/Leetcode/tree/master/0136-single-number) |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Thushar-D/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Thushar-D/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Thushar-D/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Thushar-D/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Thushar-D/Leetcode/tree/master/0344-reverse-string) |
@@ -82,6 +84,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Thushar-D/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Thushar-D/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Thushar-D/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Thushar-D/Leetcode/tree/master/0242-valid-anagram) |
