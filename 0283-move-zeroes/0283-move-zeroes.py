@@ -1,19 +1,10 @@
 class Solution(object):
     def moveZeroes(self, nums):
-        i = 0
+        pos = 0
 
-        while i < len(nums):
-            if nums[i] == 0:
-                break
-            i += 1
+        for i in range(len(nums)):
+            if nums[i] != 0:
+                if i != pos:
+                    nums[pos], nums[i] = nums[i], nums[pos]
 
-        if i == len(nums):
-            return
-
-        j = i + 1
-
-        while j < len(nums):
-            if nums[j] != 0:
-                nums[i], nums[j] = nums[j], nums[i]
-                i += 1
-            j += 1
+                pos += 1
