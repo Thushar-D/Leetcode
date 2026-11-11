@@ -4,6 +4,8 @@ class Solution(object):
 
         for customer in accounts:
             wealth = sum(customer)
-            richest = max(richest, wealth)
+
+            if wealth > richest:
+                richest = wealth
 
         return richest
