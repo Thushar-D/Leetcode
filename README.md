@@ -59,6 +59,7 @@
 | [1512-number-of-good-pairs](https://github.com/Thushar-D/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Thushar-D/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/Thushar-D/Leetcode/tree/master/2235-add-two-integers) |
+| [2652-sum-multiples](https://github.com/Thushar-D/Leetcode/tree/master/2652-sum-multiples) |
 ## Hash Table
 |  |
 | ------- |
