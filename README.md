@@ -58,6 +58,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/Thushar-D/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Thushar-D/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Thushar-D/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Thushar-D/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/Thushar-D/Leetcode/tree/master/2235-add-two-integers) |
 | [2652-sum-multiples](https://github.com/Thushar-D/Leetcode/tree/master/2652-sum-multiples) |
 ## Hash Table
@@ -122,6 +123,7 @@
 | [1929-concatenation-of-array](https://github.com/Thushar-D/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Thushar-D/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Thushar-D/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Thushar-D/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 ## Prefix Sum
 |  |
 | ------- |
