@@ -60,6 +60,7 @@
 | [2119-a-number-after-a-double-reversal](https://github.com/Thushar-D/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Thushar-D/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/Thushar-D/Leetcode/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/Thushar-D/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2652-sum-multiples](https://github.com/Thushar-D/Leetcode/tree/master/2652-sum-multiples) |
 ## Hash Table
 |  |
@@ -165,6 +166,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Thushar-D/Leetcode/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/Thushar-D/Leetcode/tree/master/2413-smallest-even-multiple) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
