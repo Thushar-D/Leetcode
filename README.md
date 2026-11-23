@@ -33,6 +33,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Thushar-D/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Thushar-D/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Thushar-D/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Thushar-D/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Thushar-D/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Thushar-D/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Union-Find
 |  |
 | ------- |
