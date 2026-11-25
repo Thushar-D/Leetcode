@@ -156,6 +156,7 @@
 | [1678-goal-parser-interpretation](https://github.com/Thushar-D/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Thushar-D/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Thushar-D/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2609-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/Thushar-D/Leetcode/tree/master/2609-find-the-longest-balanced-substring-of-a-binary-string) |
 ## Matrix
 |  |
 | ------- |
