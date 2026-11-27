@@ -67,6 +67,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Thushar-D/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Thushar-D/Leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/Thushar-D/Leetcode/tree/master/2652-sum-multiples) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Thushar-D/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 ## Hash Table
 |  |
 | ------- |
